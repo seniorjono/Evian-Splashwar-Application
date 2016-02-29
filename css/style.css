@@ -46,15 +46,15 @@ li{
 	background-color: #F4B5CA;
 }
 
-.header img{
-	height: 100%;
+.icon{
 	display: block;
 	margin: auto;
+	height: 100%;
 }
 
 .hamburger{
-	height: 100%;
-	float: left;
+	height: 10%;
+	position: absolute;
 	padding: 0 0 0 1em;
 }
 
