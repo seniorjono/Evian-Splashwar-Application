@@ -1,0 +1,74 @@
+/*
+Colours
+evian lt Pink: 		#FFEFEF;
+evian dk Pink:		#F4B5CA;
+dark mat blue:		#2196F3;
+light mat Blue: 	#E3F2FD;
+*/
+
+html,body{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background-color: #E3F2FD;
+}
+
+
+nav{
+	width: 50%;
+	height: 90%;
+	background-color: #F4B5CA;
+	position: absolute;
+}
+
+ul{
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+li{
+	padding: 1em;
+	list-style: none;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	font-weight: 300;
+	color: #fff;
+}
+
+
+
+
+.header{
+	height: 10%;
+	background-color: #F4B5CA;
+}
+
+.header img{
+	height: 100%;
+	display: block;
+	margin: auto;
+}
+
+.hamburger{
+	height: 100%;
+	float: left;
+	padding: 0 0 0 1em;
+}
+
+.hidden{
+	display: none;
+}
+
+.content{
+	display: block;
+	width: 80%;
+	margin: 5% auto;
+}
+
+.u_pic{
+	width: 30%;
+	padding: 1%;
+}
